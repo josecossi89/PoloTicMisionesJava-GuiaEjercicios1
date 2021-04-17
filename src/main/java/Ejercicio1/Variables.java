@@ -1,3 +1,4 @@
+
 /*
  Probar realizar las operaciones que se citan a continuación en el IDE Netbeans, registrar
 los errores obtenidos y responder a las preguntas citadas.
